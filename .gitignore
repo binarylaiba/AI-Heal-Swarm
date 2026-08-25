@@ -27,3 +27,9 @@ htmlcov/
 .vscode/
 .idea/
 *.swp
+
+# Sandbox ephemeral workspaces
+.swarm_workspace/
+.swarm_workspace*/
+.swarm_ws_*/
+
