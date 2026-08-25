@@ -1,0 +1,4 @@
+streamlit>=1.30.0
+groq>=1.6.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
